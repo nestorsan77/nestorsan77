@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nestorsan77&theme=ambient_gradient&show_icons=true)
+![Anurag's GitHub stats](https://github.com/nestorsan77/nestorsan77/blob/main/Banner.png)
 
 # Hello! 👋 I'm [Nestorsan77](https://github.com/nestorsan77)!
 
